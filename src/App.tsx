@@ -7,7 +7,7 @@ import Header from "./components/Header/Header"
 function App() {
 
   return (
-    <div className="w-screen h-screen bg-lime-50">
+    <div className="w-screen h-screen bg-background">
       <Header />
       <Container size="lg">
         <Routes>
